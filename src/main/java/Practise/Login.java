@@ -17,6 +17,7 @@ public void Case1() {
 	WebDriver driver = new ChromeDriver();
 	driver.get("http://adactinhotelapp.com");
     
+	/*this is my first comment*/
 	WebElement user1=driver.findElement(By.id("username"));
 	user1.sendKeys("Saran4Harish");
 	
