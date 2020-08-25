@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9755" started-at="2020-08-25T16:41:18Z" finished-at="2020-08-25T16:41:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9755" started-at="2020-08-25T16:41:18Z" finished-at="2020-08-25T16:41:27Z">
+      <class name="Practise.Login">
+        <test-method status="PASS" signature="Case1()[pri:0, instance:Practise.Login@6ad5c04e]" name="Case1" duration-ms="9733" started-at="2020-08-25T22:11:18Z" finished-at="2020-08-25T22:11:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Case1 -->
+      </class> <!-- Practise.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
